@@ -25,6 +25,8 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 &nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/IOS-282C34?logo=ios&logoColor=3DDC84" alt="IOS logo" title="IOS" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
