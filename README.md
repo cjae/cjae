@@ -19,6 +19,9 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 
 ## ⚡ Technologies
 
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -32,7 +35,6 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Android]("https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84")
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cjae&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjae&hide=TeX&layout=compact)
