@@ -38,3 +38,7 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cjae&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjae&hide=TeX&layout=compact)
+
+[tech_tools_anchor]: #bonjour--
+[learning_now_anchor]: #learning-now
+[learning_next_anchor]: #learning-next
