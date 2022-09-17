@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/cjae/cjae/master/wave.gif" width="30">
 
-I am Osagie Omon, people call me Cjae, a computer science graduate from [The University of Ibadan in Nigeria](https://www.ui.edu.ng/). I am a Mobile Software Engineer, a UI & UX enthusiast and sometimes I build stuffs. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Osagie Omon, people call me Cjae, a computer science graduate from [The University of Ibadan in Nigeria](https://www.ui.edu.ng/). I am a Mobile Software Engineer, a UI & UX enthusiast and sometimes I build stuffs. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me.
 
 ### Connect with me:
 
