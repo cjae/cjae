@@ -2,7 +2,19 @@
 
 I am Osagie Omon, people call me Cjae, a computer science graduate from [The University of Ibadan in Nigeria](https://www.ui.edu.ng/). I am a Mobile Software Engineer, a UI & UX enthusiast and sometimes I build stuffs. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osagie-omonzokpia-97309a63/)
+### Connect with me:
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC8z5xwWUQ5qoirE7_0AREog#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC8z5xwWUQ5qoirE7_0AREog#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/justcjae#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/justcjae#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/osagie-omonzokpia-97309a63#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/osagie-omonzokpia-97309a63#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/justcjae#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/justcjae#gh-dark-mode-only)
 
 ## ⚡ Technologies
 
