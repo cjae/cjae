@@ -27,6 +27,8 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 &nbsp;
 [<img src="https://img.shields.io/badge/IOS-282C34?logo=ios&logoColor=3DDC84" alt="IOS logo" title="IOS" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=3DDC84" alt="Swift logo" title="Swift" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=3DDC84" alt="Kotlin logo" title="Kotlin" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=3DDC84" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
@@ -41,6 +43,10 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 &nbsp;
 [<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Sketch-282C34?logo=sketch&logoColor=FFCA28" alt="Sketch logo" title="Sketch" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=FFCA28" alt="Figma logo" title="Figma" height="25" />][learning_now_anchor]
+&nbsp;
 
 ## 📖  What I am currently learning / improving on
 
@@ -50,8 +56,6 @@ I am Osagie Omon, people call me Cjae, a computer science graduate from [The Uni
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ## 👾  What I am interested in learning at some point
 
